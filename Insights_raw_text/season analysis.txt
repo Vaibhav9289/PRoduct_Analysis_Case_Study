@@ -1,0 +1,21 @@
+Product Analysis
+
+1. Accessories,Clothing and Components did not showed any loss.
+
+2. June showed least sales in every category.
+
+3. Components showed itself as most fruitful category with avg monthly profit of 83K.
+
+4. For Accessories, first 3months of the year and June showed less monthly sales like 5k to 9k. Avg is 15.6K. Other Months showed 10K to 25K.
+
+5. For bikes, June to September (4 months), it showed losses, worst in June (448K), around 150K in others. In winters (Feb, Mar, Nov, Dec) bikes showed profit 80K - 103K but not able to compensate losses.
+
+6. August gave the maximum monthly sales in all categories except bikes.
+
+7. For clothing, August to December proved fruitful, showing 25K Profit on Average, Best in August i.e 32K.
+
+8. For Components, January was worst with only 25K profit, then around 55K for 3 months (till Apr) , then from May it showed nice profits i.e monthly average 100K. Moderate performance in June and October with 60K monthly profit.
+
+9. Overall, May, November and December showed 200K+ Profit, losses in June (366K), Moderate PErformance from January to April & October, and low performance from July to September.
+
+10. People buys less sports good in summers as to avoid outdoor activity. Every category has its own peak and idle season but June and October showed less profit in all categories. Nov and Dec showed good profits.  Aug and Sep showed profits but not in bikes. Starting 5 months showed moderate performance in all categories.

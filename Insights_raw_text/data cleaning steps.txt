@@ -1,0 +1,21 @@
+checked if sales number has data with the right length.
+
+removed duplicates
+
+removed spaces from column names
+
+changes datatype of cost and unit price to currency
+
+checked if any date is a future date in sales
+
+checked if any productid not mentioned in products table
+
+checked for any negative value in any column
+
+checked for inconsistent territory key.
+
+applied data validation to all sales columns 
+
+Found 0 inconsistent and incorrect values.
+
+

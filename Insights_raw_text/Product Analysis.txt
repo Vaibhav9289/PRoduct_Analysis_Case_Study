@@ -1,0 +1,33 @@
+Product Analysis
+
+1. From accessories, helmets and bike racks performed the best with 84k and 66k profit, in the other side, tires & tubes showed only 311 profit.
+
+2. From bikes, only mountain bikes showed fair profit of 1.5 million but road bikes and touring bikes showed losses of around 1 million each.
+
+3. From clothing, shorts showed best profit of 110K,followed by vests and gloves. Caps and jerseys showed constant losses. Jerseys need most attention due to to 118K losses.
+
+4. From components, mountain frames has best profit of 469K, road frames 140k and wheels 175K, others mostly in range of 10K to 50K. Worst performance in this category by touring frames with 3K loss and chains with only profit of 2k. 
+
+5. Surprisingly most and least profitable product is mountain bike and road bikes respectively. 
+
+6. As we don't have full year sales data of 2017 and 2020, we will analyze annual growth rate from 2018 to 2019.
+
+7. Products with best profit growth rate is Shorts 304%, mountain bikes 236%, Socks 218%.
+
+8. Jersey loss was 4.4K in 2018 but it further went to 76K loss in 2019 (16X from 2018), similarly caps had 5X loss in 2019 when compared to previous year.
+
+9. Profits of road frames decreased by 70% by 2018-19.
+
+8. Category wise, only accessories have notable annual profit increase from 2018-19 which is 255%. Clothing has 5% profit growth and components have -2% growth.
+
+9. Of the products which are introduced in 2019, bike racks from accessories with 43K, vests from clothing with 47k, cranksets from components with 32k, gained notable profit as a ne product.
+
+10. Of the products which are introduced in 2019, touring bikes from bikes caused a heavy loss of 798K in the introduction year, but which was reduced to 146K in 2020.
+
+11. Best product from all is Mountain Bikes which gave 1.5M Profit with 236 avg profit growth rate.
+
+12. Worst performing products from all are
+touring bikes from total 945K loss but has a decreasing profit trend with losses, next is road bikes with total 1.05 M loss and has an increasing loss trend over time.
+
+
+

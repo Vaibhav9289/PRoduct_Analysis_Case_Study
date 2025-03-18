@@ -1,0 +1,92 @@
+1. Demographics & Regional Analysis
+
+Which region generates the highest and lowest revenue?
+
+Revenue wise, Southwest US was top with 1.8 Cr but their profit margin was just 0.6% which is 110k, so we need to control costs here. 3 out of 10 regions crossed 1CR sales, Northwest US, Southwest US and Canada in which Northwest has performed the best in earning profit with 2.5% profit margin. Canada has earned 1.8% but we can improve. 
+On the other side, France showed only 4.5 million sale with 5k profit and Germany and Australia showed 1.8m and 1.3m sales with 
+80k loss. But both Germany & Australia stores are opened 2 years ago and their losses are decreased in one year by more than 80%. ie in 2019 loss were 69k and in 2020 loss were around 10k.
+
+Other Stores showed around 7.5m sales with 2% avg profit margin.
+
+
+Which country has the highest average profit margin?
+
+Best Avg Profit Margin is showed by Canada at 1.84% followed by US with 1.65%. 
+
+Which region or country consistently purchases high-priced products?
+
+
+
+Which region has the highest return per salesperson?
+
+How does each region compare in terms of profit percentage and cost structure?
+
+______________________________
+2. Price & Profitability Analysis
+What is the average selling price of each product category?
+Which products have the highest profit margin percentage?
+Which products generate high revenue but low profit margins?
+Which products sell below cost price (leading to losses)?
+What is the trend of product pricing over time? (Has the price increased or decreased?)
+
+______________________________
+3. Product Features & Color Analysis
+Which product has the highest and lowest demand?
+What is the best-selling product category?
+Which color variation sells the most and least?
+Should any specific color be discontinued due to low sales?
+Do specific colors perform better in specific regions?
+
+______________________________
+4. Quantity & Customer Demand Analysis
+What is the average quantity purchased per order for each product category?
+Are there specific products where customers typically order in bulk?
+Which products have a very low order quantity per sale?
+Do customers buy more units when prices drop?
+How does order size vary across different regions?
+
+
+______________________________
+5. Product Category Analysis
+Which category has the highest and lowest sales revenue?
+Which category contributes the most to total profit?
+Which product category has the highest volume of sales?
+Are there any underperforming categories that need to be re-evaluated?
+Does a specific category dominate in certain regions?
+
+______________________________
+6. Time-Based & Seasonal Sales Analysis
+In which month or quarter do sales peak?
+Are there seasonal fluctuations in demand for specific products?
+What is the trend in sales across different years or quarters?
+Do sales spike during festivals or special promotions?
+Are specific categories affected by seasonality (e.g., winter vs. summer products)?
+
+
+______________________________
+7. Salesperson & Performance Analysis
+Who are the top 5 performing salespersons in terms of revenue?
+Which salesperson has the highest average order value?
+Are there any underperforming salespersons with consistently low sales?
+Do specific salespersons sell certain product categories better?
+How does sales performance vary by region for different employees?
+
+
+______________________________
+8. Reseller & Distribution Channel Analysis
+Which reseller generates the highest and lowest revenue?
+Which reseller has the highest profit margin?
+Which reseller orders in bulk most frequently?
+Are there any resellers that are not profitable (leading to losses)?
+Which reseller sells the widest variety of products?
+
+
+______________________________
+9. Advanced & Predictive Analysis
+What factors influence product profitability the most?
+Is there a correlation between product cost and demand?
+Can we predict which products will see increased sales next quarter?
+How does sales performance compare to forecasted values?
+Which changes should be made in inventory management based on trends?
+This structured analysis will help in inventory planning, pricing strategies, manufacturing decisions, regional focus, and performance optimization. 🚀
+

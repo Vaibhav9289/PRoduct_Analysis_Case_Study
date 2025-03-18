@@ -1,0 +1,20 @@
+Colour Analysis
+
+From accessories, all colours have around 20-30K total profit. But accessories without colour has 80K total profit.
+
+In bikes, yellow color performed word and gave loss of 997K, followed by red and blue with 365K and 312K loss. Silver and black performed well and gave profits of 550K and 689K profits.
+
+In clothing, black showed an impressive profit of 235K, followed by blue with 74K, low performance by white of just 8K. Major losses are noticed with Yellow (66K) and multi color (5K).
+
+In Components, 48% of total profit(1M) came from black, 28% from Silver, 10% from non coloured, rest from red and silver/black. Blue gave an unexpected loss of 1.8K.
+
+Around 50% of our profit was end up in compensating yellow bikes loss of 996K.
+
+Most profitable variant is Silver bikes with 689K.
+
+Overall, Black is leading in profits with 1.3M Profits, Silver with 988K. Yellow has performed the worst with huge losses in bikes(997K) and in clothing(67K).
+Blue and Red bikes are also making losses (480K combined). White and Silver/Black has low profits.
+
+Silver bikes, Black Clothing and black components have made profit worth to note.
+
+On further investigation, I got to know that every model of bike in yellow colour (23 products) have incurred loss. but 6 out of 21 red bike models resulted into a profit, proving yellow for the worst color for bikes.
